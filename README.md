@@ -1,2 +1,2 @@
 # cpp-primer-learning
-some coding for exercises in cpp primer.
+some code for exercises in cpp primer.
