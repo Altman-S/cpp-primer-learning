@@ -1,2 +1,3 @@
 # cpp-primer-learning
-some code for exercises in cpp primer.
+Some code for exercises in cpp primer.
+I want to write perfect code.
