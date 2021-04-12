@@ -1,0 +1,148 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/altman/Downloads/C++ small/find/QueryResult.h
+iostream
+-
+memory
+-
+string
+-
+set
+-
+vector
+-
+textquery.h
+/Users/altman/Downloads/C++ small/find/textquery.h
+
+/Users/altman/Downloads/C++ small/find/StrBlob.h
+vector
+-
+string
+-
+initializer_list
+-
+memory
+-
+stdexcept
+-
+
+/Users/altman/Downloads/C++ small/find/andquery.h
+memory
+-
+binaryquery.h
+/Users/altman/Downloads/C++ small/find/binaryquery.h
+
+/Users/altman/Downloads/C++ small/find/binaryquery.h
+string
+-
+query.h
+/Users/altman/Downloads/C++ small/find/query.h
+query_base.h
+/Users/altman/Downloads/C++ small/find/query_base.h
+
+/Users/altman/Downloads/C++ small/find/main.cpp
+iostream
+-
+string
+-
+vector
+-
+memory
+-
+fstream
+-
+queryresult.h
+/Users/altman/Downloads/C++ small/find/queryresult.h
+textquery.h
+/Users/altman/Downloads/C++ small/find/textquery.h
+query_base.h
+/Users/altman/Downloads/C++ small/find/query_base.h
+query.h
+/Users/altman/Downloads/C++ small/find/query.h
+andquery.h
+/Users/altman/Downloads/C++ small/find/andquery.h
+orquery.h
+/Users/altman/Downloads/C++ small/find/orquery.h
+notquery.h
+/Users/altman/Downloads/C++ small/find/notquery.h
+
+/Users/altman/Downloads/C++ small/find/notquery.h
+memory
+-
+string
+-
+query_base.h
+/Users/altman/Downloads/C++ small/find/query_base.h
+query.h
+/Users/altman/Downloads/C++ small/find/query.h
+
+/Users/altman/Downloads/C++ small/find/orquery.h
+memory
+-
+query.h
+/Users/altman/Downloads/C++ small/find/query.h
+binaryquery.h
+/Users/altman/Downloads/C++ small/find/binaryquery.h
+
+/Users/altman/Downloads/C++ small/find/query.h
+ostream
+-
+memory
+-
+string
+-
+query_base.h
+/Users/altman/Downloads/C++ small/find/query_base.h
+queryresult.h
+/Users/altman/Downloads/C++ small/find/queryresult.h
+wordquery.h
+/Users/altman/Downloads/C++ small/find/wordquery.h
+
+/Users/altman/Downloads/C++ small/find/query_base.h
+string
+-
+textquery.h
+/Users/altman/Downloads/C++ small/find/textquery.h
+QueryResult.h
+/Users/altman/Downloads/C++ small/find/QueryResult.h
+
+/Users/altman/Downloads/C++ small/find/queryresult.h
+iostream
+-
+memory
+-
+string
+-
+set
+-
+vector
+-
+textquery.h
+/Users/altman/Downloads/C++ small/find/textquery.h
+
+/Users/altman/Downloads/C++ small/find/textquery.h
+fstream
+-
+memory
+-
+string
+-
+map
+-
+set
+-
+StrBlob.h
+/Users/altman/Downloads/C++ small/find/StrBlob.h
+
+/Users/altman/Downloads/C++ small/find/wordquery.h
+string
+-
+query_base.h
+/Users/altman/Downloads/C++ small/find/query_base.h
+
